@@ -1,2 +1,3 @@
-# api
+# api.tideter.tk
 The API for tideter.tk
+(SOON)
